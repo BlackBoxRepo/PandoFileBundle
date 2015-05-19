@@ -1,7 +1,7 @@
 <?php
-namespace BlackBoxCode\Pando\Bundle\FileBundle\Model;
+namespace BlackBoxCode\Pando\FileBundle\Model;
 
-use BlackBoxCode\Pando\Bundle\BaseBundle\Model\TypeInterface;
+use BlackBoxCode\Pando\BaseBundle\Model\TypeInterface;
 
 interface MimeTypeInterface extends TypeInterface
 {

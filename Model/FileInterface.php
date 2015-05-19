@@ -1,7 +1,7 @@
 <?php
-namespace BlackBoxCode\Pando\Bundle\FileBundle\Model;
+namespace BlackBoxCode\Pando\FileBundle\Model;
 
-use BlackBoxCode\Pando\Bundle\BaseBundle\Model\IdInterface;
+use BlackBoxCode\Pando\BaseBundle\Model\IdInterface;
 
 interface FileInterface extends IdInterface
 {
